@@ -1,7 +1,7 @@
 # Hackathon-2024
 
 ## Description 
-Please find an image files uploaded in the repository and you need to create a similar web app using ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+Please find an image files ![Dashboard](https://github.com/cargoa-in/Hackathon-2024/blob/e75b15b74769e553b2142853164559a12fb66f43/Dashboard.png) uploaded in the repository and you need to create a similar web app using ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ### Dashboard
 - Dashboard should consists of pages to add importers, exporters, vendors using a form to input their name and address
 - It should have an option to create a contract with importer/exporter using a form to enter the company name and adress which create a seperate contract id
