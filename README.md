@@ -6,7 +6,7 @@ Please find the dashboard image ![Dashboard](https://github.com/cargoa-in/Hackat
 - Dashboard should consists of pages to add importers, exporters, vendors using a form to input their name and address
 - It should have an option to create a contract with importer/exporter using a form to enter the company name and adress which create a seperate contract id which can be generated from Exporter Name + country 
 - Under each contract id, user can create mulitple Shipping ids. Each shipment consists of quantity of product, date of shipping. You can generate a shipping id using Contract id
-- you can avoid Analytics and track and other details mentioned on the dashboard given below.
+- you can avoid Analytics and track and other details mentioned on the dashboard.
 
 ## Submission
 Please share the solution of your ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) in the following email *hr@cargoa.in*
